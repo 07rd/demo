@@ -1,0 +1,3 @@
+[submodule "k8s_training"]
+	path = k8s_training
+	url = git@github.com:07rd/k8s_training.git
